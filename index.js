@@ -48,3 +48,5 @@ let personObject={
     isRich: true
 };
 console.log(personObject)
+console.log(personObject.name)
+console.log(personObject["name"])
