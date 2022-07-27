@@ -25,3 +25,6 @@ let less=x<y
 console.log(less)
 let win
 console.log(win)
+let person=null;
+let emptyArray=[];
+let numbers=[1,2,3];
