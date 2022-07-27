@@ -46,4 +46,5 @@ let personObject={
     age: 13,
     job: "Software Developer",
     isRich: true
-}
+};
+console.log(personObject)
