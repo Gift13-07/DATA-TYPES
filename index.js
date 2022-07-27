@@ -31,3 +31,9 @@ let numbers=[1,2,3];
 let randomArray=[1,"Best",true,null]
 let myName="Gift Chinwendu"
 console.log(myName)
+console.log(numbers)
+console.log(numbers[2])
+console.log(randomArray[3])
+console.log(numbers.length)
+console.log(randomArray.length)
+console.log(emptyArray.length)
