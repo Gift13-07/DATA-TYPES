@@ -37,3 +37,13 @@ console.log(randomArray[3])
 console.log(numbers.length)
 console.log(randomArray.length)
 console.log(emptyArray.length)
+let newArray=[5,6,1,2,5,6,7,8,10,100,0,13];
+let lastPosition=newArray.length-1
+console.log(newArray[lastPosition])
+let newObject={}
+let personObject={
+    name: "Gift Chinwendu",
+    age: 13,
+    job: "Software Developer",
+    isRich: true
+}
