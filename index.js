@@ -28,3 +28,4 @@ console.log(win)
 let person=null;
 let emptyArray=[];
 let numbers=[1,2,3];
+let randomArray=[1,"Best",true,null]
