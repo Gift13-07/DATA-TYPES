@@ -50,3 +50,7 @@ let personObject={
 console.log(personObject)
 console.log(personObject.name)
 console.log(personObject["name"])
+console.log(personObject.age)
+console.log(personObject[age])
+console.log(personObject.job)
+console.log(personObject[job])
